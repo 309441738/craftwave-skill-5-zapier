@@ -1,0 +1,10 @@
+{
+  "title": "邮轮舱房选择",
+  "description": "探索不同邮轮舱房类型及其价格区间，帮助用户根据预算选择最合适的舱房配置。非常适合计划家庭旅行或团体出行的用户。",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
