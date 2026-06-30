@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.309441738/craftwave-skill-5",
+  "description": "探索不同邮轮舱房类型及其价格区间，帮助用户根据预算选择最合适的舱房配置。非常适合计划家庭旅行或团体出行的用户。",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cruise-mcp.olavacations.com/api/gw/mcp/0b398e97-dc1b-4a90-94c4-41d4a2172d80"
+    }
+  ]
+}
